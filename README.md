@@ -1,2 +1,7 @@
 # odin-recipes
-Building  website will consist of a main index page which will have links to a few recipe
+Creating first assignment for The Odin Project
+
+The goal is to build a page including links to different types of recipes.
+ Using headings, paragraphs, lists, pictures
+
+
